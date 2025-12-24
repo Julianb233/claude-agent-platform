@@ -1,0 +1,11 @@
+.env
+.env.local
+*.log
+logs/
+.docker
+.vscode
+.idea
+node_modules/
+__pycache__/
+*.pyc
+venv/
