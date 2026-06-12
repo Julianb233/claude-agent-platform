@@ -40,3 +40,4 @@ htmlcov/
 .codex/
 .hermes/
 .env.production
+AGENTS.md
